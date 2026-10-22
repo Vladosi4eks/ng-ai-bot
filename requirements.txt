@@ -1,0 +1,4 @@
+discord.py
+gemini-webapi
+playwright
+aiohttp
